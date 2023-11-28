@@ -3,6 +3,12 @@
 
 Add MJML to your gulp workflow!
 
+# Authorship and Contribution
+Originally developed by mjmlio.  
+Updated by gmirmand.
+
+**I won't be able to maintain this project. But I will be happy to accept pull requests.**
+
 ## Usage:
 
 > With an MJML file named `test.mjml`, render your emails to an html folder:
