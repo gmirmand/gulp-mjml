@@ -1,12 +1,12 @@
 {
-  "name": "gulp-mjml",
-  "version": "4.0.2",
-  "description": "Add Gulp to your MJML workflow",
+  "name": "@gmirmand/gulp-mjml",
+  "version": "4.1.0",
+  "description": "Add Gulp to your MJML workflow - gmirmand update",
   "main": "src/index",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Guillaume Badi <gbadi@mailjet.com> (http://github.com/GuillaumeBadi)",
+  "author": "Gaëtan Mirmand <gmirmand@gmail.com> (https://github.com/gmirmand)",
   "keywords": [
     "gulpplugin"
   ],
@@ -22,6 +22,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mjmlio/gulp-mjml.git"
+    "url": "git+https://github.com/gmirmand/gulp-mjml.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gmirmand/gulp-mjml/issues"
+  },
+  "homepage": "https://github.com/gmirmand/gulp-mjml#readme",
+  "directories": {
+    "example": "examples"
   }
 }
