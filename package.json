@@ -1,6 +1,6 @@
 {
   "name": "@gmirmand/gulp-mjml",
-  "version": "4.1.1",
+  "version": "4.1.2",
   "description": "Add Gulp to your MJML workflow - gmirmand update",
   "main": "src/index",
   "scripts": {
